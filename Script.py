@@ -9,8 +9,8 @@ class script(object):
 ★ Language: <a href=https://www.python.org>Python</a>
 ★ Library: <a href=https://pyrogram.org>Pyrogram</a>"""
 
-    MY_OWNER_TXT = """★ Name: Infinity Botz
-★ Username: @infinity_botzz"""
+    MY_OWNER_TXT = """★ Name: Bloody Sweet
+★ Username: @KR_Movie2"""
 
     STATUS_TXT = """<b>╭━━━━━━━━━━❰sᴛᴀᴛᴜs ʙᴀʀ❱══❍⊱❁۪۪
 ┣⪼𖨠 📁 ᴛᴏᴛᴀʟ ꜰɪʟᴇs: <code>{}</code>
@@ -19,7 +19,7 @@ class script(object):
 ┣⪼𖨠 ♻️ ᴛᴏᴛᴀʟ ᴄʜᴀᴛs: <code>{}</code>
 ┣⪼𖨠 ✨ ᴜsᴇᴅ sᴛᴏʀᴀɢᴇ: <code>{}</code>
 ┣⪼𖨠 🆓 ꜰʀᴇᴇ sᴛᴏʀᴀɢᴇ: <code>{}</code>
-╰━━━━━❰ɪɴғɪɴɪᴛʏ ʙᴏᴛᴢ❱━━━══❍⊱❁۪۪</b>"""
+╰━━━━━❰ʙʟᴏᴏᴅʏ ꜱᴡᴇᴇᴛ ʙᴏᴛᴢ❱━━━══❍⊱❁۪۪</b>"""
 
     NEW_GROUP_TXT = """#NewGroup
 Title - {}
@@ -73,15 +73,14 @@ I can't find the <b>{}</b> in my database! 🥲
     
     IMDB_TEMPLATE = """✅ I Found: <code>{query}</code>
 
-🏷 Title: <a href={url}>{title}</a>
-🎭 Genres: {genres}
-📆 Year: <a href={url}/releaseinfo>{year}</a>
-🌟 Rating: <a href={url}/ratings>{rating} / 10</a>
-☀️ Languages: {languages}
-📀 RunTime: {runtime} Minutes
+🏷 ᴛɪᴛʟᴇ: <a href={url}>{title}</a>
+🎭 ɢᴇɴʀᴇꜱ: {genres}
+📆 ʏᴇᴀʀ: <a href={url}/releaseinfo>{year}</a>
+🎙️ ʟᴀɴɢᴜᴀɢᴇ: {languages}
+📀 ʀᴜɴᴛɪᴍᴇ: {runtime} Minutes
 
-🗣 Requested by: {message.from_user.mention}
-©️ Powered by: <b>{message.chat.title}</b>"""
+🗣 ʀᴇǫᴜᴇꜱᴛᴇᴅ ʙʏ: {message.from_user.mention}
+©️ ᴘᴏᴡᴇʀᴇᴅ ʙʏ: <b>{message.chat.title}</b>"""
 
     FILE_CAPTION = """<b>[{file_name}](https://t.me/+NABTLpcBvvU3MGY9)\n\n<b>•────•────────•────•\n📌 ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/+NABTLpcBvvU3MGY9)\n🎬 ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/Kr_Movie2)\n•────•────────•────•\n\n©️ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : [ʙʟᴏᴏᴅʏ ꜱᴡᴇᴇᴛ](https://t.me/TG_BOTS_UPDATE)</b>"</b>
 
@@ -132,7 +131,7 @@ I can't find the <b>{}</b> in my database! 🥲
 /myplan - to check your plan details
 /plans - to get plan details</b>"""
     
-    SOURCE_TXT = """<b>স্বাগতম 🎉🎊
+    SOURCE_TXT = """<b>ʜᴇʏ ʜɪɪ 🎉🎊
 
 - ꜱᴏᴜʀᴄᴇ - <a href=https://t.me/Kr_Movie2>ʜᴇʀᴇ</a>
 
