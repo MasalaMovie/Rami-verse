@@ -38,7 +38,7 @@ I can't find the <b>{}</b> in my database! 🥲
 👉 ꜱᴇᴀʀᴄʜ ᴏɴ ɢᴏᴏɢʟᴇ ᴀɴᴅ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ꜱᴩᴇʟʟɪɴɢ.
 👉 ᴩʟᴇᴀꜱᴇ ʀᴇᴀᴅ ᴛʜᴇ ɪɴꜱᴛʀᴜᴄᴛɪᴏɴꜱ ᴛᴏ ɢᴇᴛ ʙᴇᴛᴛᴇʀ ʀᴇꜱᴜʟᴛꜱ.
 👉 ᴄʜᴇᴄᴋ ᴛʜᴇ ᴍᴏᴠɪᴇ ʀᴇʟᴇᴀꜱᴇ ᴅᴀᴛᴇ.
-👉ʀᴇᴩᴏʀᴛ @mpbotzsupport_bot ɪꜰ ʏᴏᴜ ᴅᴏɴ'ᴛ ꜰɪɴᴅ."""
+👉ʀᴇᴩᴏʀᴛ @Blody_sweet_bot ɪꜰ ʏᴏᴜ ᴅᴏɴ'ᴛ ꜰɪɴᴅ."""
     
     EARN_TXT = """<b>ʜᴏᴡ ᴛᴏ ᴇᴀʀɴ ꜰʀᴏᴍ ᴛʜɪs ʙᴏᴛ
 
@@ -46,7 +46,7 @@ I can't find the <b>{}</b> in my database! 🥲
 
 » sᴛᴇᴘ 1:- ғɪʀsᴛ ʏᴏᴜ ʜᴀᴠᴇ ᴛᴏ ᴀᴅᴅ ᴛʜɪs ʙᴏᴛ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴡɪᴛʜ ᴀᴅᴍɪɴ ᴘᴇʀᴍɪssɪᴏɴ.
 
-» sᴛᴇᴘ 2:- ᴍᴀᴋᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ <a href=https://tnshort.net/ref/infinitymp>ᴛɴꜱʜᴏʀᴛ.ɴᴇᴛ</a> [ ʏᴏᴜ ᴄᴀɴ ᴀʟsᴏ ᴜsᴇ ᴏᴛʜᴇʀ sʜᴏʀᴛɴᴇʀ ᴡᴇʙsɪᴛᴇ ]
+» sᴛᴇᴘ 2:- ᴍᴀᴋᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ <a href=https://mdiskshortner.link/ref/104594076436939082113>ᴍᴅɪꜱᴋꜱʜᴏʀᴛɴᴇʀ.ɴᴇᴛ</a> [ ʏᴏᴜ ᴄᴀɴ ᴀʟsᴏ ᴜsᴇ ᴏᴛʜᴇʀ sʜᴏʀᴛɴᴇʀ ᴡᴇʙsɪᴛᴇ ]
 
 » sᴛᴇᴘ 3:- ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴇʟᴏᴡ ɢɪᴠᴇɴ ʙᴜᴛᴛᴏɴ ᴛᴏ ᴋɴᴏᴡ ʜᴏᴡ ᴛᴏ ᴄᴏɴɴᴇᴄᴛ ʏᴏᴜʀ sʜᴏʀᴛɴᴇʀ ᴡɪᴛʜ ᴛʜɪs ʙᴏᴛ.
 
@@ -62,7 +62,7 @@ I can't find the <b>{}</b> in my database! 🥲
 
 ➥ ᴇxᴀᴍᴘʟᴇ ↓↓↓
 
-<code>/set_shortlink tnshort.net 9bccb0b14ed6841652fa22d3481907788c1b8838</code>
+<code>/set_shortlink ᴍᴅɪꜱᴋꜱʜᴏʀᴛɴᴇʀ.net 1cf9ae3a85f3180eb45564a2a47e03f074b47a6a</code>
 
 ➥ ɪꜰ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴄʜᴇᴄᴋ ᴡʜɪᴄʜ sʜᴏʀᴛᴇɴᴇʀ ʏᴏᴜ ʜᴀᴠᴇ ᴄᴏɴɴᴇᴄᴛᴇᴅ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛʜᴇɴ sᴇɴᴅ ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ᴛʜᴇ ɢʀᴏᴜᴘ /get_shortlink
 
@@ -83,7 +83,7 @@ I can't find the <b>{}</b> in my database! 🥲
 🗣 Requested by: {message.from_user.mention}
 ©️ Powered by: <b>{message.chat.title}</b>"""
 
-    FILE_CAPTION = """<b>[{file_name}](https://t.me/+y6sw5OKRsck3OTA1)\n\n<b>•────•────────•────•\n📌 ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/+ZYPevL2d9k45ZDll)\n🎬 ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/hd_movies_hub01/7)\n•────•────────•────•\n\n©️ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : [ɪɴғɪɴɪᴛʏ ʙᴏᴛᴢ](https://t.me/infinity_botzz)</b>"</b>
+    FILE_CAPTION = """<b>[{file_name}](https://t.me/+NABTLpcBvvU3MGY9)\n\n<b>•────•────────•────•\n📌 ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/+NABTLpcBvvU3MGY9)\n🎬 ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/Kr_Movie2)\n•────•────────•────•\n\n©️ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : [ʙʟᴏᴏᴅʏ ꜱᴡᴇᴇᴛ](https://t.me/TG_BOTS_UPDATE)</b>"</b>
 
 🚫 ᴘʟᴇᴀsᴇ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ᴄʟᴏsᴇ ʙᴜᴛᴛᴏɴ ɪꜰ ʏᴏᴜ ʜᴀᴠᴇ sᴇᴇɴ ᴛʜᴇ ᴍᴏᴠɪᴇ 🚫"""
 
@@ -134,11 +134,11 @@ I can't find the <b>{}</b> in my database! 🥲
     
     SOURCE_TXT = """<b>স্বাগতম 🎉🎊
 
-- ꜱᴏᴜʀᴄᴇ - <a href=https://t.me/infinity_botzz>ʜᴇʀᴇ</a>
+- ꜱᴏᴜʀᴄᴇ - <a href=https://t.me/Kr_Movie2>ʜᴇʀᴇ</a>
 
 ᴄᴏɴᴛᴀᴄᴛ ᴛᴏ ᴍᴀᴋᴇ ᴀ ʙᴏᴛ ʟɪᴋᴇ ᴛʜɪꜱ  -
-<a href=https://t.me/infinity_botzz>ɪɴꜰɪɴɪᴛʏ ʙᴏᴛᴢ</a>
-<a href=https://t.me/talk_mrs_bot>ᴍʀ ɪɴꜰɪɴɪᴛʏ</a></b>"""
+<a href=https://t.me/Kr_Movie2>ʙʟᴏᴏᴅʏ ꜱᴡᴇᴇᴛ</a>
+<a href=https://t.me/+NABTLpcBvvU3MGY9>ʜᴇʀᴇ</a></b>"""
 
     PREMIUM_PLAN_TEXT = """<b><i><u>- ᴀᴠᴀɪʟᴀʙʟᴇ ᴘʟᴀɴs - </u>
 
