@@ -80,7 +80,7 @@ TUTORIAL = environ.get("TUTORIAL", "https://t.me/How_To_Download_From_Wibi_Movie
 VERIFY_TUTORIAL = environ.get("VERIFY_TUTORIAL", "https://t.me/How_To_Download_From_Wibi_Movies")
 
 # Bot settings
-DELETE_TIME = int(environ.get('DELETE_TIME', 3600)) # Add time in seconds
+DELETE_TIME = int(environ.get('DELETE_TIME', 300)) # Add time in seconds
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 MAX_BTN = int(environ.get('MAX_BTN', 10))
 LANGUAGES = [language.lower() for language in environ.get('LANGUAGES', 'hindi english telugu tamil kannada malayalam marathi punjabi bengali gujarati').split()]
@@ -89,14 +89,14 @@ IMDB_TEMPLATE = environ.get("IMDB_TEMPLATE", script.IMDB_TEMPLATE)
 FILE_CAPTION = environ.get("FILE_CAPTION", script.FILE_CAPTION)
 SHORTLINK_URL = environ.get("SHORTLINK_URL", "nestshortener.com")
 SHORTLINK_API = environ.get("SHORTLINK_API", "b06c63fc6944ea26903862a8be4ad04247a5e998")
-VERIFY_EXPIRE = int(environ.get('VERIFY_EXPIRE', 86400)) # Add time in seconds
+VERIFY_EXPIRE = int(environ.get('VERIFY_EXPIRE', 600)) # Add time in seconds
 WELCOME_TEXT = environ.get("WELCOME_TEXT", script.WELCOME_TEXT)
 INDEX_EXTENSIONS = [extensions.lower() for extensions in environ.get('INDEX_EXTENSIONS', 'mp4 mkv').split()]
-PM_FILE_DELETE_TIME = int(environ.get('PM_FILE_DELETE_TIME', '180'))
+PM_FILE_DELETE_TIME = int(environ.get('PM_FILE_DELETE_TIME', '300'))
 
 # boolean settings
 IS_PM_SEARCH = is_enabled('IS_PM_SEARCH', True)
-IS_VERIFY = is_enabled('IS_VERIFY', False)
+IS_VERIFY = is_enabled('IS_VERIFY', True)
 AUTO_DELETE = is_enabled('AUTO_DELETE', True)
 WELCOME = is_enabled('WELCOME', True)
 PROTECT_CONTENT = is_enabled('PROTECT_CONTENT', False)
