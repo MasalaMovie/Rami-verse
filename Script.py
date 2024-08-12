@@ -12,7 +12,7 @@ class script(object):
     MY_OWNER_TXT = """
 ⪼ Username: @MasalaUniverseContact_robot"""
 
-    STATUS_TXT = """<b>╭━━━━━━━━━━❰sᴛᴀᴛᴜs ʙᴀʀ❱══❍⊱❁۪۪
+    STATUS_TXT = """<b><blockquote>sᴛᴀᴛᴜs ʙᴀʀ</blockquote>
  ⪼ 📁 ᴛᴏᴛᴀʟ ꜰɪʟᴇs: <code>{}</code>
  ⪼ 👥 ᴛᴏᴛᴀʟ ᴜsᴇʀs: <code>{}</code>
  ⪼ 🧧 ᴘʀᴇᴍɪᴜᴍ ᴜsᴇʀs: <code>{}<code>
