@@ -87,7 +87,7 @@ Total - <code>{}</code>"""
 
     HELP_TXT = """<b>Note - <spoiler>ᴛʀʏ ᴇᴀᴄʜ ᴄᴏᴍᴍᴀɴᴅ ᴡɪᴛʜᴏᴜᴛ ᴀɴʏ ᴀʀɢᴜᴍᴇɴᴛ ᴛᴏ ꜱᴇᴇ ᴍᴏʀᴇ ᴅᴇᴛᴀɪʟꜱ</spoiler></b>"""
     
-    ADMIN_COMMAND_TXT = """<b>Here is bot admin commands 👇
+    ADMIN_COMMAND_TXT = """<b>ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅ'ꜱ
 
 /index_channels - to check how many index channel id added
 /stats - to get bot status
@@ -109,7 +109,7 @@ Total - <code>{}</code>"""
 /set_pm_search - to do pm search on/off
 /index - to index bot accessible channels</b>"""
     
-    USER_COMMAND_TXT = """<b>Here is bot user commands 👇
+    USER_COMMAND_TXT = """<b>ᴜꜱᴇʀ ᴄᴏᴍᴍᴀɴᴅ'ꜱ
 
 /start - to check bot alive or not
 /settings - to change group settings as your wish
@@ -123,13 +123,7 @@ Total - <code>{}</code>"""
 /set_fsub - to set force subscribe channels
 /remove_fsub - to remove all force subscribe channel</b>"""
     
-    SOURCE_TXT = """<b>ʙᴏᴛ ɢɪᴛʜᴜʙ ʀᴇᴘᴏsɪᴛᴏʀʏ -
-
-- ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴀɴ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
-
-- ꜱᴏᴜʀᴄᴇ - <a href=https://github.com/HA-Bots/Auto-Filter-Bot>ʜᴇʀᴇ</a>
-
-- ᴅᴇᴠʟᴏᴘᴇʀ - @HA_Bots"""
+    SOURCE_TXT = """<b>ᴄᴏɴᴛᴀᴄᴛ ᴀᴅᴍɪɴ</b>"""
 
     PREMIUM_PLAN_TEXT = """<b><i><u>- ᴀᴠᴀɪʟᴀʙʟᴇ ᴘʟᴀɴs - </u>
 
