@@ -22,14 +22,14 @@ class script(object):
 ╰━━━━━❰ʙʟᴏᴏᴅʏ ꜱᴡᴇᴇᴛ ʙᴏᴛᴢ❱━━━══❍⊱❁۪۪</b>"""
 
     NEW_GROUP_TXT = """#NewGroup
-Title - {}
-ID - <code>{}</code>
-Username - {}
-Total - <code>{}</code>"""
+›Title - {}
+›ID - <code>{}</code>
+›Username - {}
+›Total - <code>{}</code>"""
 
     NEW_USER_TXT = """#NewUser
-★ Name: {}
-★ ID: <code>{}</code>"""
+›Name: {}
+›ID: <code>{}</code>"""
 
     NOT_FILE_TXT = """👋 Hello {},
 
