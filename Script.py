@@ -33,7 +33,7 @@ Total - <code>{}</code>"""
 
     NOT_FILE_TXT = """👋 Hello {},
 
-I can't find the <b>{}</b> in my database! 🥲
+<blockquote>ɪ ᴄᴀɴ'ᴛ ꜰɪɴᴅ ᴛʜᴇ <b>{}</b> ɪɴ ᴍʏ ᴅᴀᴛᴀʙᴀꜱᴇ!</blockquote>
 
 👉 ꜱᴇᴀʀᴄʜ ᴏɴ ɢᴏᴏɢʟᴇ ᴀɴᴅ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ꜱᴩᴇʟʟɪɴɢ.
 👉 ᴩʟᴇᴀꜱᴇ ʀᴇᴀᴅ ᴛʜᴇ ɪɴꜱᴛʀᴜᴄᴛɪᴏɴꜱ ᴛᴏ ɢᴇᴛ ʙᴇᴛᴛᴇʀ ʀᴇꜱᴜʟᴛꜱ.
