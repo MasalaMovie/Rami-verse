@@ -4,22 +4,21 @@ class script(object):
     
 <blockquote>ɪ ᴀᴍ ᴘᴏᴡᴇʀғᴜʟ ᴀᴜᴛᴏ ғɪʟᴛᴇʀ ᴡɪᴛʜ ʟɪɴᴋ sʜᴏʀᴛᴇɴᴇʀ ʙᴏᴛ. ʏᴏᴜ ᴄᴀɴ ᴜꜱᴇ ᴀꜱ ᴀᴜᴛᴏ ғɪʟᴛᴇʀ ᴡɪᴛʜ ʟɪɴᴋ sʜᴏʀᴛᴇɴᴇʀ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ... ɪᴛ'ꜱ ᴇᴀꜱʏ ᴛᴏ ᴜꜱᴇ ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴀꜱ ᴀᴅᴍɪɴ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ɪ ᴡɪʟʟ ᴘʀᴏᴠɪᴅᴇ ᴛʜᴇʀᴇ ᴍᴏᴠɪᴇꜱ ᴡɪᴛʜ ʏᴏᴜʀ ʟɪɴᴋ ꜱʜᴏʀᴛᴇɴᴇʀ... ♻️</blockquote></b>"""
 
-    MY_ABOUT_TXT = """★ ꜱᴇʀᴠᴇʀ: <a href=https://www.koyeb.com>ᴋᴏʏᴇʙ</a>
-★ ᴅᴀᴛᴀʙᴀꜱᴇ: <a href=https://www.mongodb.com>ᴍᴏɴɢᴏᴅʙ</a>
-★ ʟᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org>ᴘʏᴛʜᴏɴ</a>
-★ ʟɪʙʀᴀʀʏ: <a href=https://pyrogram.org>ᴘʏʀᴏɢʀᴀᴍ</a>"""
+    MY_ABOUT_TXT = """⪼ ꜱᴇʀᴠᴇʀ: <a href=https://www.koyeb.com>ᴋᴏʏᴇʙ</a>
+⪼ ᴅᴀᴛᴀʙᴀꜱᴇ: <a href=https://www.mongodb.com>ᴍᴏɴɢᴏᴅʙ</a>
+⪼ ʟᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org>ᴘʏᴛʜᴏɴ</a>
+⪼ ʟɪʙʀᴀʀʏ: <a href=https://pyrogram.org>ᴘʏʀᴏɢʀᴀᴍ</a>"""
 
     MY_OWNER_TXT = """★ Name: Bloody Sweet
-★ Username: @KR_Movie2"""
+⪼ Username: @KR_Movie2"""
 
     STATUS_TXT = """<b>╭━━━━━━━━━━❰sᴛᴀᴛᴜs ʙᴀʀ❱══❍⊱❁۪۪
-┣⪼𖨠 📁 ᴛᴏᴛᴀʟ ꜰɪʟᴇs: <code>{}</code>
-┣⪼𖨠 👥 ᴛᴏᴛᴀʟ ᴜsᴇʀs: <code>{}</code>
-┣⪼𖨠 🧧 ᴘʀᴇᴍɪᴜᴍ ᴜsᴇʀs: <code>{}<code>
-┣⪼𖨠 ♻️ ᴛᴏᴛᴀʟ ᴄʜᴀᴛs: <code>{}</code>
-┣⪼𖨠 ✨ ᴜsᴇᴅ sᴛᴏʀᴀɢᴇ: <code>{}</code>
-┣⪼𖨠 🆓 ꜰʀᴇᴇ sᴛᴏʀᴀɢᴇ: <code>{}</code>
-╰━━━━━❰ʙʟᴏᴏᴅʏ ꜱᴡᴇᴇᴛ ʙᴏᴛᴢ❱━━━══❍⊱❁۪۪</b>"""
+ ⪼ 📁 ᴛᴏᴛᴀʟ ꜰɪʟᴇs: <code>{}</code>
+ ⪼ 👥 ᴛᴏᴛᴀʟ ᴜsᴇʀs: <code>{}</code>
+ ⪼ 🧧 ᴘʀᴇᴍɪᴜᴍ ᴜsᴇʀs: <code>{}<code>
+ ⪼ ♻️ ᴛᴏᴛᴀʟ ᴄʜᴀᴛs: <code>{}</code>
+ ⪼ ✨ ᴜsᴇᴅ sᴛᴏʀᴀɢᴇ: <code>{}</code>
+ ⪼ 🆓 ꜰʀᴇᴇ sᴛᴏʀᴀɢᴇ: <code>{}</code></b>"""
 
     NEW_GROUP_TXT = """#NewGroup
 ›Title - {}
