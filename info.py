@@ -72,12 +72,12 @@ DATABASE_NAME = environ.get('DATABASE_NAME', "Cluster0")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Links
-SUPPORT_LINK = environ.get('SUPPORT_LINK', 'https://t.me/Kr_Movie2')
-OWNER_USERNAME = environ.get("OWNER_USERNAME", "https://t.me/TG_BOTS_UPDATE")
-UPDATES_LINK = environ.get('UPDATES_LINK', 'https://t.me/+NABTLpcBvvU3MGY9')
-FILMS_LINK = environ.get('FILMS_LINK', 'https://t.me/Blackhunter_Group')
-TUTORIAL = environ.get("TUTORIAL", "https://t.me/+tlQ5RkB4Z7wzYmE1")
-VERIFY_TUTORIAL = environ.get("VERIFY_TUTORIAL", "https://t.me/bloodysweet_group")
+SUPPORT_LINK = environ.get('SUPPORT_LINK', 'https://t.me/masala_supports')
+OWNER_USERNAME = environ.get("OWNER_USERNAME", "https://t.me/MasalaUniverseContact_robot")
+UPDATES_LINK = environ.get('UPDATES_LINK', 'https://t.me/MasalaUniverse')
+FILMS_LINK = environ.get('FILMS_LINK', 'https://t.me/wibimovie_requests')
+TUTORIAL = environ.get("TUTORIAL", "https://t.me/How_To_Download_From_Wibi_Movies")
+VERIFY_TUTORIAL = environ.get("VERIFY_TUTORIAL", "https://t.me/How_To_Download_From_Wibi_Movies")
 
 # Bot settings
 DELETE_TIME = int(environ.get('DELETE_TIME', 3600)) # Add time in seconds
