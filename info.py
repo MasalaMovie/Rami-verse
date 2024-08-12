@@ -109,17 +109,17 @@ SHORTLINK = is_enabled('SHORTLINK', False)
 
 #premium info
 PAYMENT_QR = environ.get('PAYMENT_QR', 'https://graph.org/file/259ae56fcc7fd2bdd9a82.jpg')
-OWNER_UPI_ID = environ.get('OWNER_UPI_ID', 'harikushal234@okicici')
+OWNER_UPI_ID = environ.get('OWNER_UPI_ID', 'UQDjVvLIgvCxS51np-R47vONl_YILslyPuyA3wIPvs2UTLDG')
 
 # for stream
 IS_STREAM = is_enabled('IS_STREAM', True)
-BIN_CHANNEL = environ.get("BIN_CHANNEL", "-1002210651858")
+BIN_CHANNEL = environ.get("BIN_CHANNEL", "-1002071503340")
 if len(BIN_CHANNEL) == 0:
     print('Error - BIN_CHANNEL is missing, exiting now')
     exit()
 else:
     BIN_CHANNEL = int(BIN_CHANNEL)
-URL = environ.get("URL", "nice-meris-mahaan.koyeb.app")
+URL = environ.get("URL", "professor-professormasala.koyeb.app")
 if len(URL) == 0:
     print('Error - URL is missing, exiting now')
     exit()
