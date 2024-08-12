@@ -31,9 +31,9 @@ Total - <code>{}</code>"""
 ★ Name: {}
 ★ ID: <code>{}</code>"""
 
-    NOT_FILE_TXT = """👋 Hello {},
+    NOT_FILE_TXT = """ꜱᴏʀʀʏ {} 🥺,
 
-I can't find the <b>{}</b> in my database! 🥲
+ɪ ᴄᴀɴ'ᴛ ꜰɪɴᴅ <b>{}</b> ɪɴ ᴍʏ ᴅᴀᴛᴀʙᴀꜱᴇ!
 
 👉 Google Search and check your spelling is correct.
 👉 Please read the Instructions to get better results.
