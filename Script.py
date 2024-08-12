@@ -131,13 +131,7 @@ Total - <code>{}</code>"""
 /myplan - to check your plan details
 /plans - to get plan details</b>"""
     
-    SOURCE_TXT = """<b>ʜᴇʏ ʜɪɪ 🎉🎊
-
-- ꜱᴏᴜʀᴄᴇ - <a href=https://t.me/Kr_Movie2>ʜᴇʀᴇ</a>
-
-ᴄᴏɴᴛᴀᴄᴛ ᴛᴏ ᴍᴀᴋᴇ ᴀ ʙᴏᴛ ʟɪᴋᴇ ᴛʜɪꜱ  -
-<a href=https://t.me/Kr_Movie2>ʙʟᴏᴏᴅʏ ꜱᴡᴇᴇᴛ</a>
-<a href=https://t.me/+NABTLpcBvvU3MGY9>ʜᴇʀᴇ</a></b>"""
+    SOURCE_TXT = """<b><blockquote>ᴄᴏɴᴛᴀᴄᴛ ᴀᴅᴍɪɴ</blockquote></b>"""
 
     PREMIUM_PLAN_TEXT = """<b><i><u>- ᴀᴠᴀɪʟᴀʙʟᴇ ᴘʟᴀɴs - </u>
 
@@ -157,7 +151,7 @@ Total - <code>{}</code>"""
 ○ ꜰᴜʟʟ ᴀᴅᴍɪɴ sᴜᴘᴘᴏʀᴛ                              
 ○ ʀᴇǫᴜᴇsᴛ ᴡɪʟʟ ʙᴇ ᴄᴏᴍᴘʟᴇᴛᴇᴅ ɪɴ 1ʜ ɪꜰ ᴀᴠᴀɪʟᴀʙʟᴇ   
 
-✨ ᴜᴘɪ ɪᴅ - <code>{}</code>
+✨ ᴘᴀʏᴍᴇɴᴛ ɪᴅ - <code>{}</code>
 
 ᴄʟɪᴄᴋ ᴛᴏ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ /myplan
 
